@@ -36,10 +36,11 @@ Predefined Commands
 
 | Command        | Action                                                                 |
 |----------------|------------------------------------------------------------------------|
-| `open_file`    | Opens a specified file.                                               |
-| `delete_file`  | Deletes a specified file.                                             |
-| `list_dir`     | Lists all files in the current directory.                              |
-| `shutdown`     | Logs the user out and safely exits the program.                        |
+| `hello`        | Prompts with a greeting message.                                       |
+| `open notepad` | Opens notepad in system.                                               |
+| `open google`  | Opens google.com on default browser.                                   |
+| `time`         | Display current system time.                                           |
+| `exit`         | Logs the user out and safely exits the program.                        |
 
 
 
